@@ -8,4 +8,5 @@ Ovation Guitar by Duane's Mind https://sketchfab.com/models/f5bd8065de084cf29730
 Gibson by Rick Greeve and edited by Francesco Coldesina https://sketchfab.com/models/cee58deadaa44425bbb4bf8f0ec46b44
 Gibson Les Paul Custom by congibbs97 https://sketchfab.com/models/0347edb7602c4c458c845adee1d7ad03
 Acoustic Guitar by Ivan Dnistrian https://sketchfab.com/models/a44930f9c14544a6ae6967d5544417e8 
+Wood Table by toAflame https://sketchfab.com/models/ce6977c9de1d43048838e4802e21f7d4
 
