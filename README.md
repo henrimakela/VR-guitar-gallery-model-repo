@@ -1,4 +1,7 @@
 # VR-guitar-gallery-model-repo
+
+This repository is used to serve 3D objects to my other demo project: WebVR-Guitars 
+
 These models are from www.sketchfab.com and www.turbosquid.com
 
 Fender Stratocaster by Pieter Ferreira https://sketchfab.com/models/ed3a53525db8481f8a2d4cba92c8bf7d
